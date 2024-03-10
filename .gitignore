@@ -1,0 +1,28 @@
+# Node Modules
+/node_modules
+
+# Dependency directory
+/.pnpm
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE files
+.vscode
+.idea
+
+# Build dir
+/dist
+
+# Mac specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight
+.Trashes
+__MACOSX
