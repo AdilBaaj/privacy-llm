@@ -17,6 +17,9 @@
 # Build dir
 /dist
 
+# Parcel cache dir
+ .parcel-cache/
+
 # Mac specific files
 .DS_Store
 .AppleDouble
